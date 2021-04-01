@@ -80,7 +80,7 @@ a {
   left: 0;
 }
 .banner {
-  background-color: #1f68b6;
+  background-color: #f84744;
   padding: 150px 0;
 }
 section {
@@ -159,17 +159,15 @@ section h3::after {
   width: 100%;
 }
 .css {
-  width: 90%;
+  width: 100%;
 }
 .js {
-  width: 30%;
+  width: 100%;
 }
 .php {
-  width: 50%;
+  width: 100%;
 }
-.ps {
-  width: 10%;
-}
+
 .col-4 {
   width: 25%;
   box-sizing: border-box;
